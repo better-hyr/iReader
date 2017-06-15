@@ -8,5 +8,5 @@
 - zepto框架的使用
 
 - html5存储技术
-- css3圆角、base63格式图片
+- css3圆角、base64格式图片
 - 事件模型、ajax请求、json数据
